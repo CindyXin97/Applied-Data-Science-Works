@@ -38,9 +38,9 @@ http://cs.du.edu/~mitchell/mario_books/Introduction_to_Machine_Learning_-_2e_-_E
 ### Further resources 
  - Introductions to statistics:
 
-https://pdfs.semanticscholar.org/5777/2c52696be0881728ebde18eb84c8397309b8.pdf
-https://faculty.washington.edu/ezivot/econ424/probreview.pdf (Section 1.1.1, 1.1.2, 1.1.6, 1.2)
-http://www.cim.mcgill.ca/~paul/StIEs43z.pdf
+ - https://pdfs.semanticscholar.org/5777/2c52696be0881728ebde18eb84c8397309b8.pdf
+ - https://faculty.washington.edu/ezivot/econ424/probreview.pdf (Section 1.1.1, 1.1.2, 1.1.6, 1.2)
+ - http://www.cim.mcgill.ca/~paul/StIEs43z.pdf
 
 ### Data mining/analysis:
  - Data Mining Concepts And Techniques:
@@ -50,4 +50,4 @@ Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
 https://www-users.cs.umn.edu/~kumar001/dmbook/index.php
 
 ### Python tutorials:
-https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+ - https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
