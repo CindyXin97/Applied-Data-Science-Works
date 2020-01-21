@@ -1,10 +1,7 @@
 # Applied-Data-Science-Works
 
    
-This is profolio using basic skills and tools necessary to address data science 
-problems. It includes a wide variety of tools currently used in applied data science, from basic 
-regression analysis, clustering and classification to more advanced topics, such as deep learning and 
-network science and heavily relies on Python on the implementation end.
+These are course works of applied data science given by Dr.Stanislav Sobolevsky at NYU. It includes a wide variety of tools currently used in applied data science, from basic regression analysis, clustering and classification to more advanced topics, such as deep learning and network science and heavily relies on Python on the implementation end.
 
 
 ## Other Learning Materials Related
@@ -51,3 +48,4 @@ https://www-users.cs.umn.edu/~kumar001/dmbook/index.php
 
 ### Python tutorials:
  - https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+
